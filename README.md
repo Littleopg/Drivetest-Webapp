@@ -51,12 +51,6 @@ python app.py
 
 ---
 
-## ⚠️ Notes
-
-* Large `.glb` files should be optimized before use
-
----
-
 ## 👨‍💻 Author
 
-* Sivakorn Srikaewnual
+* Sivakorn Srikaewnual 66011487 KMITL Student
